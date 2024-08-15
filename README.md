@@ -48,6 +48,7 @@ I am a passionate Machine Learning enthusiast, diving deep into the world of AI 
 
 - **Email**:  [aayushmalla2021@gmail.com](mailto:aayushmalla2021@gmail.com)
 - **Facebook**: [Aayush Malla](https://www.facebook.com/aayush.malla.5492)
+- **Instagram**: [Aayush Malla](https://www.instagram.com/aayush_mallaa/)
 
 ## 🔥 Fun Facts
 
