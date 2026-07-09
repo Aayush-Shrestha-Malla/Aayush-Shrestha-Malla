@@ -46,7 +46,7 @@ I am a passionate Machine Learning enthusiast, diving deep into the world of AI 
 
 ## 📫 How to Reach Me
 
-- **Email**:  [aayushmalla2021@gmail.com](mailto:aayushmalla2021@gmail.com)
+- **Email**:  [aayush.shrestha.malla@gmail.com](mailto:aayush.shrestha.malla@gmail.com)
 - **Facebook**: 
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20" height="20" style="vertical-align: middle;"/> 
   [Aayush Malla](https://www.facebook.com/aayush.malla.5492)
