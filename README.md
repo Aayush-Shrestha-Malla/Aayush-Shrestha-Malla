@@ -15,19 +15,7 @@ I am a passionate Machine Learning enthusiast, diving deep into the world of AI 
 - **Languages**: 
   <br>
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="60" height="60" style="vertical-align: middle;"/>
-
-- **Machine Learning**: 
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/640px-Tensorflow_logo.svg.png" alt="TensorFlow" width="60" height="60" style="vertical-align: middle;"/> 
-  &nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1024px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="60" height="60" style="vertical-align: middle;"/> 
-  &nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60" style="vertical-align: middle;"/>
-
-- **Data Analysis**: 
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="Pandas" width="60" height="60" style="vertical-align: middle;"/>
-  &nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" alt="NumPy" width="60" height="60" style="vertical-align: middle;"/> 
-  &nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" width="60" height="60" style="vertical-align: middle;"/>
-
+  
 - **Version Control**: 
   <br>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" height="60" style="vertical-align: middle;"/>
