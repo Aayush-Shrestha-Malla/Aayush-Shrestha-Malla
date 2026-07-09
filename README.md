@@ -22,9 +22,9 @@ I am a passionate Machine Learning enthusiast, diving deep into the world of AI 
 
 ## 🌱 What I'm Currently Learning
 
-- Advanced NLP techniques
-- Reinforcement learning
-- Deployment of ML models
+- CAD
+- CAM
+- Real world projects
 
 ## 💼 Projects
 
